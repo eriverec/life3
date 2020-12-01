@@ -5,7 +5,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'life3',    
+    title: 'life3',
     titleTemplate: '%s - Portafolio',
     meta: [
       { charset: 'utf-8' },
@@ -56,7 +56,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    ['storyblok-nuxt', { accessToken: 'XY8DWRFAPirbYgUpkLAwagtt', cacheProvider: 'memory' }],
+    ['storyblok-nuxt', { accessToken: 'Hijh7sR0IzsnyAIyzGfS2wtt', cacheProvider: 'memory' }],
   ],
 
   /*
